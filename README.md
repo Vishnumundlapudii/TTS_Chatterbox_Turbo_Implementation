@@ -72,7 +72,6 @@ cd ~/chatterbox_demo
 
 Create the demo script file:
 ```bash
-cat > demo.py << 'EOF'
 import streamlit as st
 import torchaudio as ta
 import torch
@@ -276,7 +275,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-EOF
 ```
 
 ### 6. Hugging Face Authentication
