@@ -9,19 +9,19 @@ This guide helps you set up and run the Chatterbox Turbo TTS demo on a GPU-enabl
 - **GPU**: Minimum 16GB VRAM (Recommended: 24GB+ for optimal performance)
 - **RAM**: 16GB+ system RAM
 - **Storage**: 50GB+ free space
+
+### Software
+- **OS**: Ubuntu 20.04+ or 22.04 LTS (recommended)
+- **CUDA**: Version 11.8 or 12.1
+- **Python**: 3.9-3.11 (3.10 recommended)
   
-## Deployment Environment
+### Deployment Environment
   This implementation was successfully tested and deployed on **Jarvislabs.ai** with:
   • GPU: A5000 24GB VRAM
   • CUDA support enabled
   • Ubuntu environment
   • Python 3.10
   
-### Software
-- **OS**: Ubuntu 20.04+ or 22.04 LTS (recommended)
-- **CUDA**: Version 11.8 or 12.1
-- **Python**: 3.9-3.11 (3.10 recommended)
-
 ## 🚀 Step-by-Step Setup
 
 ### 1. Initial System Setup
