@@ -17,10 +17,10 @@ This guide helps you set up and run the Chatterbox Turbo TTS demo on a GPU-enabl
   
 ### Deployment Environment
   This implementation was successfully tested and deployed on [Jarvislabs.ai](https://jarvislabs.ai/) with:
-  • GPU: A5000 24GB VRAM
-  • CUDA support enabled
-  • Ubuntu environment
-  • Python 3.10
+  - **GPU:** A5000 24GB VRAM
+  - **CUDA:** Support enabled
+  - **OS:** Ubuntu environment
+  - **Python:** 3.10
   
 ## 🚀 Step-by-Step Setup
 
